@@ -1,4 +1,6 @@
-**Bienvenido a la Organización de APIs**
+![Logo de la Organización de APIs](https://www.css.pe/wp-content/themes/css/images/logo-css.png)
+
+# Organización de APIs
 
 En esta organización, nos dedicamos a almacenar y gestionar repositorios de APIs desarrolladas para nuestros clientes. Nuestra misión es facilitar la colaboración interna y garantizar la calidad y seguridad de las APIs que desarrollamos.
 
@@ -8,7 +10,7 @@ Dentro de nuestra organización, encontrarás repositorios de APIs desarrolladas
 
 ## ¿Cómo contribuir?
 
-Como parte del equipo de desarrollo de APIs, tendrás acceso a los repositorios correspondientes a los proyectos en los que estás involucrado. Puedes colaborar con tus compañeros de equipo, revisar y aprobar solicitudes de extracción, y mantener actualizada la documentación de las APIs.
+Como parte del equipo de desarrollo de APIs de CSS, tendrás acceso a los repositorios correspondientes a los proyectos en los que estás involucrado. Puedes colaborar con tus compañeros de equipo, revisar y aprobar solicitudes de extracción, y mantener actualizada la documentación de las APIs.
 
 ## ¿Acceso a la organización?
 
