@@ -1,4 +1,9 @@
-![Logo de la Organización de APIs](https://www.css.pe/wp-content/themes/css/images/logo-css.png)
+<p align="center">
+  <img src="https://www.css.pe/wp-content/themes/css/images/logo-css.png">
+</p>
+
+</br>
+</br>
 
 # Organización de APIs
 
